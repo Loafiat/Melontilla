@@ -26,7 +26,7 @@
       <Reference Include="GorillaLibrary">
         <HintPath>..\..\.local\share\Steam\steamapps\common\Gorilla Tag\Mods\GorillaLibrary.dll</HintPath>
       </Reference>
-      <Reference Include="GorillaLibrary.GameModes">
+      <Reference Include="GorillaLibrary.GameModes" Publicize="true">
         <HintPath>..\..\.local\share\Steam\steamapps\common\Gorilla Tag\Mods\GorillaLibrary.GameModes.dll</HintPath>
       </Reference>
       <Reference Include="Photon3Unity3D">

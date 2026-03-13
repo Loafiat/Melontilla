@@ -1,6 +1,6 @@
 using System;
 
-namespace Utilla.Events
+namespace Utilla
 {
     public static class EventHandlerExtensions
     {

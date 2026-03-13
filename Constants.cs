@@ -2,8 +2,8 @@ namespace Utilla
 {
     public class Constants
     {
-        // why was this org and not com?
-        internal const string GUID = "com.legoandmars.gorillatag.utilla";
+        // thats why
+        internal const string GUID = "org.legoandmars.gorillatag.utilla";
 
         internal const string Name = "Utilla";
 

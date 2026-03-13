@@ -4,7 +4,7 @@ using GorillaGameModes;
 using GorillaLibrary.GameModes.Utilities;
 using HarmonyLib;
 
-namespace Utilla.Events
+namespace Utilla
 {
     public class Events
     {
