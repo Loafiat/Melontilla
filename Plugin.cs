@@ -5,7 +5,6 @@ using HarmonyLib;
 
 namespace Utilla;
 
-[BepInDependency("Lofiat.MelInEx")]
 [BepInPlugin(Constants.GUID, Constants.Name, Constants.Version)]
 internal class Plugin : BaseUnityPlugin
 {
