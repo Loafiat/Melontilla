@@ -7,7 +7,7 @@ namespace Utilla
 
         internal const string Name = "Utilla";
 
-        internal const string Version = "1.6.27";
+        internal const string Version = "1.6.28";
 
         public const string ModdedPrefix = "MODDED_";
 
